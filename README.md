@@ -1,5 +1,5 @@
-# FactFinders at CheckThat! 2024 Task 1: Check-worthiness Estimation in Text
-This repository contains our approach for the CheckThat! 2024 Task 1: Check-worthiness Estimation in Text. We investigate the application of eight prominent open-source LLMs with fine-tuning and prompt engineering to identify check-worthy statements from political transcriptions. Further, we propose a two-step data pruning approach to automatically identify high-quality training data instances for effective learning. These methods are evaluated on the datasets in English language.
+# FactFinders at CheckThat! 2024 Task 1: Check-worthiness Estimation
+This repository contains our approach for the CheckThat! 2024 Task 1: Check-worthiness Estimation. We investigate the application of eight prominent open-source LLMs with fine-tuning and prompt engineering to identify check-worthy statements from political transcriptions. Further, we propose a two-step data pruning approach to automatically identify high-quality training data instances for effective learning. These methods are evaluated on the datasets in English language.
 
 You can find more details about the task and the dataset at the [CLEF2024 CheckThat! Lab](https://gitlab.com/checkthat_lab/clef2024-checkthat-lab.)
 
